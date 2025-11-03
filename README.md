@@ -1,7 +1,5 @@
 # kim-m-nguyen.github.io
 
-Documentation for Arch Linux
-
 ## Downloading the ISO
 1. Downloaded iso file via HTTP from mit.edu. Originally downloaded the file directly on my computer instead of downloading it within my VM, so I had some trouble accessing it within my VM
 2. Downloaded the iso signature 
