@@ -269,6 +269,7 @@ sudo pacman -S python
 ```
 sudo pacman -S firefox
 ```
+- set prompt to "disco" and colors to "solarized dark"
 30.  ==set the system to **boot into the GUI** desktop environment==
 *-this step was already done when I installed LXQt; I installed sddm and enabled it-*
 31. ==Creating aliases (in fish)==
