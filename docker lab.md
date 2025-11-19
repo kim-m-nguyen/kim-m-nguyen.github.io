@@ -67,8 +67,8 @@ sudo docker info
 ```
 ![[Screenshot 2025-11-18 172707 1.png]]
 
-## Setting up Seafile in Docker
-1. Create a parent directory for Seafile
+## Setting up Gotify in Docker
+1. Create a parent directory for Gotify
 ```
 mkdir -p ~/docker-projects/gotify
 ```
