@@ -109,7 +109,7 @@ sudo docker compose ps
 ```
 http://192.168.117.128:8080
 ```
-   - the webpage should look like this
+   - the webpage should look like this:
 ![Gotify log in screen](Screenshot 2025-11-18 200255.png)
 7. Log in using the credentials you initialized in your docker-compose.yml file:
 	Username: admin
