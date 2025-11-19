@@ -65,7 +65,7 @@ sudo docker compose version
 ```
 sudo docker info
 ```
-![[Screenshot 2025-11-18 172707 1.png]]
+[Checking Docker version](Documents/Screenshot 2025-11-18 172707 1.png)
 
 ## Setting up Seafile in Docker
 1. Create a parent directory for Seafile
