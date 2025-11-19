@@ -65,7 +65,7 @@ sudo docker compose version
 ```
 sudo docker info
 ```
-[Checking Docker version]/(Screenshot 2025-11-18 172707 1.png)
+![Checking Docker version]/(Screenshot 2025-11-18 172707 1.png)
 
 ## Setting up Gotify in Docker
 1. Create a parent directory for Gotfiy
@@ -110,9 +110,9 @@ sudo docker compose ps
 http://192.168.117.128:8080
 ```
    - the webpage should look like this
-[Gotify log in screen]/(Screenshot 2025-11-18 200255.png)
+![Gotify log in screen]/(Screenshot 2025-11-18 200255.png)
 7. Log in using the credentials you initialized in your docker-compose.yml file:
 	Username: admin
 	Password: adminpassword
 8. You are now logged in, and you should see:
-[Successfully logged in]/(Pasted image 20251118200547.png)
+![Successfully logged in]/(Pasted image 20251118200547.png)
