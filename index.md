@@ -1,3 +1,5 @@
+# Docker Lab
+
 ## Installing Docker
 1. Remove all (if any) docker files from VM using:
 ```
