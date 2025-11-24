@@ -104,7 +104,7 @@ services:
 
 #### Generate QR Code
 1. Before turning on your vpn, go to ipleak.net and screenshot your current ip address
-![[phone ip addr before.jpg]]
+[phone ip before](phone ip addr before.jpg)
 2. Next, in the wireguard directory, run
 ```
 docker compose up -d
@@ -119,11 +119,11 @@ docker logs -f wireguard
 3. Scan your QR code
 4. Allow the app to make configurations and toggle the VPN to on in the app
 5. Revisit ipleak.net and capture your new ip address
-![[phone ip addr after 1.jpg]]
+[phone ip after](phone ip addr after.jpg)
 
 ###### Connecting to the VPN on your computer
 1. Visit ipleak.net and capture your current IP address
-![[Screenshot_23-11-2025_11243_ipleak.net.jpeg]]
+[computer ip before](Screenshot_23-11-2025_11243_ipleak.net.jpeg)
 2. See where the config files are located
 ```
 ls -R config
@@ -136,6 +136,6 @@ scp root@157.245.183.54:~/wireguard/config/peer_pc1/peer_pc1.conf .
 5. After it downloads, click "add tunnel" and find your config file
 6. Activate the VPN
 7. Revisit ipleak.net and capture your new IP address
-![[Screenshot_23-11-2025_113516_ipleak.net.jpeg]]
+[computer ip after](Screenshot_23-11-2025_113516_ipleak.net.jpeg)
 #### Destroy your Droplet
 1. Go to your account settings on DigitalOcean and deactivate your account. Make sure to purge your data before submitting the deactivation.
