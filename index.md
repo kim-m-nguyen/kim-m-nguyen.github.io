@@ -1,4 +1,4 @@
-#Wireguard Project
+# Wireguard Project
 
 ## Create an account on digitalocean.com
 1. sign up for a new account using: https://m.do.co/c/d33d59113ab6
